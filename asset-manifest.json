@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SatakeYusuke19920527/sat-page/static/css/main.5f361e03.chunk.css",
+    "main.js": "/SatakeYusuke19920527/sat-page/static/js/main.baed682f.chunk.js",
+    "main.js.map": "/SatakeYusuke19920527/sat-page/static/js/main.baed682f.chunk.js.map",
+    "runtime-main.js": "/SatakeYusuke19920527/sat-page/static/js/runtime-main.bd2c0837.js",
+    "runtime-main.js.map": "/SatakeYusuke19920527/sat-page/static/js/runtime-main.bd2c0837.js.map",
+    "static/css/2.764ccc25.chunk.css": "/SatakeYusuke19920527/sat-page/static/css/2.764ccc25.chunk.css",
+    "static/js/2.023f2278.chunk.js": "/SatakeYusuke19920527/sat-page/static/js/2.023f2278.chunk.js",
+    "static/js/2.023f2278.chunk.js.map": "/SatakeYusuke19920527/sat-page/static/js/2.023f2278.chunk.js.map",
+    "index.html": "/SatakeYusuke19920527/sat-page/index.html",
+    "precache-manifest.9949f0f630ff84c32ed11c9ec43a8486.js": "/SatakeYusuke19920527/sat-page/precache-manifest.9949f0f630ff84c32ed11c9ec43a8486.js",
+    "service-worker.js": "/SatakeYusuke19920527/sat-page/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/SatakeYusuke19920527/sat-page/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/SatakeYusuke19920527/sat-page/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.023f2278.chunk.js.LICENSE.txt": "/SatakeYusuke19920527/sat-page/static/js/2.023f2278.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/SatakeYusuke19920527/sat-page/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd2c0837.js",
+    "static/css/2.764ccc25.chunk.css",
+    "static/js/2.023f2278.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.baed682f.chunk.js"
+  ]
+}
