@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://SatakeYusuke19920527@github.com/SatakeYusuke19920527/sat-page",
+  "homepage": "http://SatakeYusuke19920527.github.io/sat-page",
   "eslintConfig": {
     "extends": "react-app"
   },
